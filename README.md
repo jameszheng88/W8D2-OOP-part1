@@ -3,7 +3,7 @@
 ## Overview
 This project define a class called BankAccount, which simulates a simple bank account with basic functionalities. The class includes methods for depositing money, withdrawing money, checking the balance, and displaying account information.  
 
-There are 2 files in the project. Bankaccount.py defines the class. Main.py instantiates 3 instances of the class and performs methods on each class.
+There are 2 files in the project. The bankaccount.py defines the class and main.py instantiates 3 instances of the class and performs methods on each class.
 
 ## Modules
 No extra modules necessary
